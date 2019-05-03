@@ -16,4 +16,4 @@ Install Pillow:   https://pillow.readthedocs.io/en/stable/index.html
 6.  To decrypt you need to have both the private and public images that were used to make the original encrypted image in the same folder as the decrypt.py script. Run decrypt.py and you will find the original plain-text message in a file called decodedMessage.txt.
 
 * I plan to clean up the code and combine all things into one file for encryption. And minimise the number of diagnostic files created.
-** you can use the script getRandomImages.py to obtain random pictures from picsum.com and save them as pub.png and pk.png.
+* you can use the script getRandomImages.py to obtain random pictures from picsum.com and save them as pub.png and pk.png.
